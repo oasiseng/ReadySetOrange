@@ -1,0 +1,79 @@
+{
+  "disclaimer": "⚠️ This plan is part of Orange County’s official Ready Set Orange program. It is provided here for educational and informational purposes only. Oasis Engineering LLC is not affiliated with, endorsed by, or officially partnered with Orange County Government.",
+  "name": "Tangerine",
+  "alias": "ADU D",
+  "type": "2-Story Accessory Dwelling Unit",
+  "category": "ADU",
+  "location": "Orange County, FL",
+  "size_sqft": {
+    "first_floor": {
+      "air_conditioned": 113,
+      "non_air_conditioned": 687,
+      "total": 800
+    },
+    "second_floor": {
+      "air_conditioned": 699,
+      "non_air_conditioned": 178,
+      "total": 877
+    },
+    "overall": {
+      "air_conditioned": 812,
+      "non_air_conditioned": 865,
+      "total": 1677
+    }
+  },
+  "beds": 1,
+  "baths": 1,
+  "features": [
+    "Two-level ADU layout",
+    "Garage (687 SF) on first floor",
+    "Stairwell (113 SF) connecting levels",
+    "Second-floor living area (699 SF)",
+    "Covered porch (178 SF)",
+    "Compact 1 bed / 1 bath ADU"
+  ],
+  "sheets": {
+    "general": [
+      "G001 Cover",
+      "G002 General Information and Notes"
+    ],
+    "architectural": [
+      "A101 Plans",
+      "A104 RCP and Roof Plan",
+      "A105 Exterior Elevations",
+      "A106 Overall Sections",
+      "A106.1 Wall Sections and Details",
+      "A106.2 Interior Elevations",
+      "A107 Schedules and Details"
+    ],
+    "structural": [
+      "S000 Structural General Notes",
+      "S100 Foundation, Floor, and Roof Framing",
+      "S101 Structural Floor Joist and Roof Framing",
+      "S102 Structural Section",
+      "S200 Structural Details",
+      "S201 Structural Details",
+      "S202 Structural Details"
+    ],
+    "plumbing": [
+      "P000 Plumbing Legend Notes",
+      "P001 Plumbing Specs"
+    ],
+    "mechanical": [
+      "M000 Mechanical Specs",
+      "M100 Mechanical Layout",
+      "M200 Mechanical Schedule and Details"
+    ]
+  },
+  "codes": [
+    "Florida Building Code (FBC) 2023, Residential, 8th Edition",
+    "Florida Accessibility Code 2023, 8th Edition",
+    "Florida Plumbing Code 2023, 8th Edition",
+    "Florida Mechanical Code 2023, 8th Edition",
+    "Florida Fire Prevention Code (FFPC) 2023, 8th Edition",
+    "National Electric Code / NFPA 70"
+  ],
+  "request_link": "https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx",
+  "image_url": "https://oasisengineering.com/wp-content/uploads/2025/02/image-7-1583x2048.png",
+  "notes": "Must request this plan directly from Orange County via the Ready Set Orange request form. Oasis Engineering can finalize it into a permit-ready package with site-specific engineering."
+}
