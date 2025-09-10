@@ -71,7 +71,7 @@
 ---
 
 ## 📌 Notes
-This plan must be requested **directly from Orange County** through the Ready Set Orange program. Once approved, Oasis Engineering can provide:  
+This plan must be requested [**directly from Orange County**](https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx) through the Ready Set Orange program. Once approved, Oasis Engineering can provide:  
 - Site-specific survey integration  
 - Grading & drainage plan  
 - Structural review + PE stamp  
