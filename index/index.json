@@ -1,0 +1,91 @@
+{
+  "disclaimer": "⚠️ These plans are part of Orange County’s official Ready Set Orange program. They are provided here for educational and informational purposes only. Oasis Engineering LLC is not affiliated with, endorsed by, or officially partnered with Orange County Government.",
+  "program": "Ready Set Orange — Orange County, FL",
+  "categories": {
+    "houses": [
+      {
+        "name": "Valencia",
+        "alias": "House A",
+        "beds": 3,
+        "baths": 3,
+        "living_area": 1655,
+        "total_area": 1915,
+        "image_url": "https://oasisengineering.com/wp-content/uploads/2025/02/image-1583x2048.png",
+        "request_link": "https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx"
+      },
+      {
+        "name": "Minneola",
+        "alias": "House B",
+        "beds": 3,
+        "baths": 2,
+        "living_area": 1295,
+        "total_area": 1984,
+        "image_url": "https://oasisengineering.com/wp-content/uploads/2025/02/image-1-1583x2048.png",
+        "request_link": "https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx"
+      },
+      {
+        "name": "Tangelo",
+        "alias": "House C",
+        "beds": 2,
+        "baths": 1,
+        "living_area": 1576,
+        "total_area": 2286,
+        "image_url": "https://oasisengineering.com/wp-content/uploads/2025/02/image-2-1583x2048.png",
+        "request_link": "https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx"
+      },
+      {
+        "name": "Navel",
+        "alias": "House D",
+        "beds": 2,
+        "baths": 2,
+        "living_area": 1696,
+        "total_area": 2479,
+        "image_url": "https://oasisengineering.com/wp-content/uploads/2025/02/image-1583x2048.png",
+        "request_link": "https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx"
+      }
+    ],
+    "adus": [
+      {
+        "name": "Seville",
+        "alias": "ADU B",
+        "beds": 1,
+        "baths": 1,
+        "living_area": 700,
+        "total_area": 1075,
+        "image_url": "https://oasisengineering.com/wp-content/uploads/2025/02/image-4-1583x2048.png",
+        "request_link": "https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx"
+      },
+      {
+        "name": "Mandarin",
+        "alias": "ADU A",
+        "beds": 1,
+        "baths": 1,
+        "living_area": 610,
+        "total_area": 885,
+        "image_url": "https://oasisengineering.com/wp-content/uploads/2025/02/image-5-1583x2048.png",
+        "request_link": "https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx"
+      },
+      {
+        "name": "Clementine",
+        "alias": "ADU C",
+        "beds": 1,
+        "baths": 1,
+        "living_area": 602,
+        "total_area": 725,
+        "image_url": "https://oasisengineering.com/wp-content/uploads/2025/02/image-6-1583x2048.png",
+        "request_link": "https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx"
+      },
+      {
+        "name": "Tangerine",
+        "alias": "ADU D",
+        "beds": 1,
+        "baths": 1,
+        "living_area": 812,
+        "total_area": 1677,
+        "image_url": "https://oasisengineering.com/wp-content/uploads/2025/02/image-7-1583x2048.png",
+        "request_link": "https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx"
+      }
+    ]
+  },
+  "notes": "Each plan must be requested directly from Orange County. Oasis Engineering can help you with site-specific modifications, grading/drainage plans, energy calculations, and permit-ready PE-stamped packages."
+}
