@@ -1,0 +1,58 @@
+{
+  "disclaimer": "⚠️ This plan is part of Orange County’s official Ready Set Orange program. It is provided here for educational and informational purposes only. Oasis Engineering LLC is not affiliated with, endorsed by, or officially partnered with Orange County Government.",
+  "name": "Seville",
+  "alias": "ADU B",
+  "type": "1-Story Accessory Dwelling Unit",
+  "category": "ADU",
+  "location": "Orange County, FL",
+  "size_sqft": {
+    "living_space": 700,
+    "exterior_patio": 375,
+    "total": 1075
+  },
+  "beds": 1,
+  "baths": 1,
+  "features": [
+    "Single-level ADU design",
+    "Living & dining combined space",
+    "One-bedroom unit with full bath",
+    "Laundry & hallway closet",
+    "Exterior concrete patio (375 SF)"
+  ],
+  "sheets": {
+    "general": [
+      "G000 Cover Sheet",
+      "G001 General Information"
+    ],
+    "structural": [
+      "S001 Structural General Notes",
+      "S101 Foundation and Roof Framing Plan",
+      "S301 Typical Details",
+      "S302 Section and Details"
+    ],
+    "architectural": [
+      "A101 Floor & Roof Plans",
+      "A201 Exterior and Interior Elevations and Details",
+      "A301 Building Sections",
+      "A601 Door and Window Schedules and Details"
+    ],
+    "plumbing": [
+      "P000 Plumbing Legends & Notes",
+      "P101 Plumbing Floor Plan"
+    ],
+    "mechanical": [
+      "M000 Mechanical Plan Legends & Notes"
+    ],
+    "electrical": [
+      "E000 Electrical Legends & Notes",
+      "E101 Electrical Floor Plan with Details",
+      "E200 Riser Diagram & Schedules"
+    ]
+  },
+  "codes": [
+    "Florida Building Code (FBC) 2023, Residential, 8th Edition"
+  ],
+  "request_link": "https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx",
+  "image_url": "https://oasisengineering.com/wp-content/uploads/2025/02/image-4-1583x2048.png",
+  "notes": "Must request this plan directly from Orange County via the Ready Set Orange request form. Oasis Engineering can help you finalize it into a permit-ready package with site-specific engineering."
+}
