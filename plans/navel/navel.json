@@ -1,0 +1,63 @@
+{
+  "disclaimer": "⚠️ This plan is part of Orange County’s official Ready Set Orange program. It is provided here for educational and informational purposes only. Oasis Engineering LLC is not affiliated with, endorsed by, or officially partnered with Orange County Government.",
+  "name": "Navel",
+  "type": "1-Story",
+  "category": "Home",
+  "location": "Orange County, FL",
+  "size_sqft": {
+    "air_conditioned": 1696,
+    "garage": 441,
+    "front_porch": 178,
+    "rear_porch": 164,
+    "total": 2479
+  },
+  "beds": 2,
+  "baths": 2,
+  "features": [
+    "Single-level design",
+    "Front porch (178 SF)",
+    "Rear porch (164 SF)",
+    "Attached garage (441 SF)",
+    "1696 SF air-conditioned living space"
+  ],
+  "dimensions": {
+    "width": "39'-08\"",
+    "depth": "69'-08\""
+  },
+  "sheets": {
+    "general": ["G001 Cover", "G002 General Information and Notes"],
+    "architectural": [
+      "A102 Floor Plans",
+      "A104 RCP and Roof Plan",
+      "A105 Exterior Elevations",
+      "A106 Overall Sections",
+      "A107 Schedules and Details"
+    ],
+    "structural": [
+      "S000 Structural General Notes",
+      "S100 Foundation Plan Main House",
+      "S101 Structural Wall Plan",
+      "S102 Structural Details",
+      "S103 Structural Roof Framing",
+      "S200 Structural Details",
+      "S201 Structural Details"
+    ],
+    "plumbing": [
+      "P000 Plumbing Plans, Legend and Notes",
+      "P001 Plumbing Specs"
+    ],
+    "mechanical": [
+      "M000 Mechanical Specs",
+      "M200 Mechanical Schedule and Details"
+    ],
+    "electrical": [
+      "E001 Electrical Power and Lighting Plans"
+    ]
+  },
+  "codes": [
+    "Florida Building Code (FBC) 2023, Residential, 8th Edition"
+  ],
+  "request_link": "https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx",
+  "image_url": "https://oasisengineering.com/wp-content/uploads/2025/02/image-1583x2048.png",
+  "notes": "Must request this plan directly from Orange County via the Ready Set Orange request form. Oasis Engineering can finalize it into a permit-ready package with site-specific engineering."
+}
