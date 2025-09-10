@@ -76,4 +76,4 @@ Email: AffordableHousing@ocfl.net
 
 ---
 
-© 2025 Orange County Government. _Content summarized by Oasis Engineering LLC for clarity and reference only. _
+© 2025 Orange County Government. Content summarized by Oasis Engineering LLC for clarity and reference only. 
