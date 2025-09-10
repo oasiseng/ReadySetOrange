@@ -66,7 +66,7 @@
 ---
 
 ## 🖼️ Image
-![Navel Plan](https://oasisengineering.com/wp-content/uploads/2025/02/image-1583x2048.png)
+![Navel Plan](https://oasisengineering.com/wp-content/uploads/2025/02/image-3-1583x2048.png)
 
 ---
 
