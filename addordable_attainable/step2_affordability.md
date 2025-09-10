@@ -142,4 +142,4 @@ Use these to confirm eligibility under **Attainable** (120–140% AMI bands) or 
 ---
 
 ### Disclaimer
-This guide paraphrases public County materials to aid understanding and **does not replace** official County rules or approvals. **Always verify** current thresholds (AMI, price caps, sectors, fee programs) with Orange County before applying. 
+This guide paraphrases public County materials to aid understanding and **does not replace** official County rules or approvals. **Always verify** current thresholds (AMI, price caps, sectors, fee programs) with Orange County before applying. It is provided for educational and informational purposes only. Oasis Engineering LLC is not affiliated with, endorsed by, or officially partnered with Orange County Government. Always verify with Orange County for current rules, thresholds, and applications.
