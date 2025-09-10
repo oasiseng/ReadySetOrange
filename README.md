@@ -58,7 +58,8 @@ Our role is to help finalize these plans into permit-ready packages with enginee
 For official information about the Ready Set Orange program, visit:
 [OrangeCountyFL.net](https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx)
 
-##License
+## License
+
 # Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 This repository is licensed under the Creative Commons Attribution 4.0 International License.
