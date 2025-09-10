@@ -1,0 +1,74 @@
+{
+  "disclaimer": "⚠️ This dataset summarizes Orange County Government's official Step 2 (Certified Affordable / Attainable Housing) requirements. It is provided for educational and informational purposes only. Oasis Engineering LLC is not affiliated with, endorsed by, or officially partnered with Orange County Government. Always verify with Orange County for current rules, thresholds, and applications.",
+  "step": 2,
+  "title": "Certified Affordable / Attainable Housing",
+  "incentives": {
+    "attainable": [
+      "Expedited rezoning, planning, and permitting review",
+      "Attainable Housing Certification"
+    ],
+    "affordable": [
+      "Expedited rezoning, planning, and permitting review",
+      "25% discount on water/wastewater fees",
+      "Possible reduced impact fees",
+      "Affordable Housing Certification"
+    ]
+  },
+  "criteria": {
+    "attainable": {
+      "rental": {
+        "income_limit": "≤120% AMI",
+        "rent_limit": "≤100% AMI",
+        "location": "Targeted or Established Sectors (Neighborhood Center Low, Suburban Neighborhood, Suburban Mixed Neighborhood, Suburban Corridor)",
+        "affordability_period": "20 years",
+        "enforcement": ["Developer’s Agreement", "LURA"],
+        "monitoring": "Annual monitoring"
+      },
+      "homeownership": {
+        "income_limit": "≤140% AMI",
+        "price_cap": "≤$405,000",
+        "occupancy": "Primary residence only (no investors, secondary homes, or rentals)",
+        "location": "Targeted or Established Sectors (Neighborhood Center Low, Suburban Neighborhood, Suburban Mixed Neighborhood, Suburban Corridor)",
+        "affordability_period": "10 years",
+        "enforcement": ["MOU", "Developer Agreement"],
+        "monitoring": "Closing Disclosure (CD) submission by developer"
+      }
+    },
+    "affordable": {
+      "rental": {
+        "income_limit": "≤60% AMI (with averaging allowed up to 80% AMI)",
+        "rent_limit": "≤60% AMI or average of rents at 60% AMI",
+        "resources": "Federal, State, or Local resources targeted for households ≤80% AMI",
+        "location": "Targeted or Established Sectors (Neighborhood Center Low, Suburban Neighborhood, Suburban Mixed Neighborhood, Suburban Corridor)",
+        "affordability_period": "20 years",
+        "enforcement": ["Developer’s Agreement", "Deed Restriction", "LURA"],
+        "monitoring": "Annual monitoring"
+      },
+      "homeownership": {
+        "income_limit": "≤120% AMI",
+        "price_cap": "≤$345,000 (Orange County Down Payment Assistance maximum sales price)",
+        "occupancy": "Primary residence only (no investors, secondary homes, or rentals)",
+        "resources": "Federal, State, or Local resources",
+        "location": "Targeted or Established Sectors (Neighborhood Center Low, Suburban Neighborhood, Suburban Mixed Neighborhood, Suburban Corridor)",
+        "affordability_period": "10 years",
+        "enforcement": ["Mortgage", "Deed Restriction", "LURA"],
+        "monitoring": "Annual monitoring"
+      }
+    }
+  },
+  "contacts": {
+    "affordable_housing_division": {
+      "phone": "407-836-5150",
+      "email": "AffordableHousing@ocfl.net"
+    },
+    "planning_division": {
+      "phone": "407-836-5600",
+      "email": "planning@ocfl.net",
+      "address": "201 South Rosalind Avenue, 2nd Floor, Orlando, FL 32801"
+    }
+  },
+  "official_links": {
+    "program_page": "https://www.orangecountyfl.net",
+    "fast_track": "https://fasttrack.ocfl.net"
+  }
+}
