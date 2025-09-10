@@ -1,0 +1,66 @@
+{
+  "disclaimer": "⚠️ This plan is part of Orange County’s official Ready Set Orange program. It is provided here for educational and informational purposes only. Oasis Engineering LLC is not affiliated with, endorsed by, or officially partnered with Orange County Government.",
+  "name": "Minneola",
+  "alias": "House B",
+  "type": "1-Story Single Family House",
+  "category": "House",
+  "location": "Orange County, FL",
+  "size_sqft": {
+    "living_area": 1295,
+    "garage": 229,
+    "carport": 350,
+    "porch": 110,
+    "total_conditioned": 1295,
+    "total_unconditioned": 689,
+    "total": 1984
+  },
+  "beds": 3,
+  "baths": 2,
+  "features": [
+    "Single-level family home",
+    "Open dining and living room layout",
+    "Attached garage and carport",
+    "Front porch and rear patio",
+    "Three bedrooms and two full bathrooms"
+  ],
+  "sheets": {
+    "general": [
+      "G000 Cover Sheet",
+      "G001 General Information"
+    ],
+    "structural": [
+      "S001 Structural General Notes",
+      "S101 Foundation and Roof Framing Plan",
+      "S301 Typical Foundation Details",
+      "S501 Wood Framing Details"
+    ],
+    "architectural": [
+      "A101 Floor Plans",
+      "A102 Roof Plan",
+      "A201 Exterior Elevations",
+      "A221 Interior Elevations",
+      "A301 Building Sections",
+      "A311 Wall Sections & Exterior Details",
+      "A601 Door and Window Schedules and Details"
+    ],
+    "plumbing": [
+      "P000 Plumbing Legends & Notes",
+      "P101 Plumbing Plans"
+    ],
+    "mechanical": [
+      "M000 Mechanical Legends & Notes",
+      "M101 Mechanical Floor Plans"
+    ],
+    "electrical": [
+      "E000 Electrical Legends & Notes",
+      "E101 Electrical Floor Plans & Details",
+      "E200 Riser & Schedules"
+    ]
+  },
+  "codes": [
+    "Florida Building Code (FBC) 2023, Residential, 8th Edition"
+  ],
+  "request_link": "https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx",
+  "image_url": "https://oasisengineering.com/wp-content/uploads/2025/02/image-1-1583x2048.png",
+  "notes": "This plan must be requested directly from Orange County. Oasis Engineering can assist with site-specific engineering, surveys, energy calcs, and permit-ready packages."
+}
