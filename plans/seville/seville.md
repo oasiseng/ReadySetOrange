@@ -73,6 +73,4 @@ This plan must be requested [**directly from Orange County**](https://www.ocfl.n
 - Product approval sheet  
 - Truss package review
 
-- Learn more at [**ReadySetOrange.com**](https://readysetorange.com/)
-
----
+---Learn more at [**ReadySetOrange.com**](https://readysetorange.com/)
