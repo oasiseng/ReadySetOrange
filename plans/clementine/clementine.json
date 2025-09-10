@@ -1,0 +1,69 @@
+{
+  "disclaimer": "⚠️ This plan is part of Orange County’s official Ready Set Orange program. It is provided here for educational and informational purposes only. Oasis Engineering LLC is not affiliated with, endorsed by, or officially partnered with Orange County Government.",
+  "name": "Clementine",
+  "alias": "ADU C",
+  "type": "1-Story Accessory Dwelling Unit",
+  "category": "ADU",
+  "location": "Orange County, FL",
+  "size_sqft": {
+    "living_area": 602,
+    "porch": 123,
+    "total": 725,
+    "net_air_conditioned_breakdown": {
+      "hallway": 22,
+      "kitchen": 134,
+      "living_room": 142,
+      "bedroom": 137,
+      "closet": 12,
+      "bathroom": 84,
+      "total_net": 531
+    }
+  },
+  "beds": 1,
+  "baths": 1,
+  "features": [
+    "Compact single-level ADU",
+    "Open living room and kitchen",
+    "Covered porch (123 SF)",
+    "Efficient 1 bed / 1 bath layout",
+    "Net conditioned interior breakdown available"
+  ],
+  "sheets": {
+    "general": [
+      "G001 Cover",
+      "G002 General Information"
+    ],
+    "architectural": [
+      "A102 Floor Plans",
+      "A105 Exterior Elevations and Sections",
+      "A106.1 Wall Sections and Details",
+      "A107 Schedules and Details"
+    ],
+    "structural": [
+      "S000 Structural General Notes",
+      "S100 Foundation, Lintel, and Structural Plans",
+      "S102 Structural Details",
+      "S103 Structural Roof Framing",
+      "S200 Structural Sections",
+      "S201 Structural Details"
+    ],
+    "plumbing": [
+      "P000 Plumbing Legend Notes",
+      "P001 Plumbing Specs"
+    ],
+    "mechanical": [
+      "M000 Mechanical Specs",
+      "M100 Mechanical Layout"
+    ],
+    "electrical": [
+      "E001 Electrical Power and Lighting Plans",
+      "E002 Panel Schedules"
+    ]
+  },
+  "codes": [
+    "Florida Building Code (FBC) 2023, Residential, 8th Edition"
+  ],
+  "request_link": "https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx",
+  "image_url": "https://oasisengineering.com/wp-content/uploads/2025/02/image-6-1583x2048.png",
+  "notes": "Must request this plan directly from Orange County via the Ready Set Orange request form. Oasis Engineering can help you finalize it into a permit-ready package with site-specific engineering."
+}
