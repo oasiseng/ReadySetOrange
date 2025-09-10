@@ -1,0 +1,65 @@
+{
+  "disclaimer": "⚠️ This plan is part of Orange County’s official Ready Set Orange program. It is provided here for educational and informational purposes only. Oasis Engineering LLC is not affiliated with, endorsed by, or officially partnered with Orange County Government.",
+  "name": "Tangelo",
+  "alias": "House C",
+  "type": "Single Family House",
+  "category": "House",
+  "location": "Orange County, FL",
+  "size_sqft": {
+    "living_area": 1576,
+    "garage": 441,
+    "front_porch": 225,
+    "rear_porch": 44,
+    "total_conditioned": 1576,
+    "total_unconditioned": 710,
+    "total": 2286
+  },
+  "beds": 2,
+  "baths": 1,
+  "features": [
+    "Compact single-family home",
+    "Attached garage",
+    "Front porch and small rear porch",
+    "Two bedrooms and one bathroom",
+    "Efficient open-plan layout"
+  ],
+  "sheets": {
+    "general": [
+      "G000 Cover",
+      "G001 General Information and Notes"
+    ],
+    "architectural": [
+      "A101 Floor Plans",
+      "A104 RCP and Roof Plan",
+      "A105 Exterior Elevations",
+      "A106 Overall Sections",
+      "A106.1 Wall Sections and Details",
+      "A107 Schedules and Details"
+    ],
+    "structural": [
+      "S000 Structural General Notes",
+      "S100 Ext Wall and Foundation Plans",
+      "S103 Structural Roof Framing",
+      "S200 Structural Details",
+      "S201 Structural Details",
+      "S202 Structural Details"
+    ],
+    "plumbing": [
+      "P000 Plumbing Plans, Legend and Notes",
+      "P001 Plumbing Specifications"
+    ],
+    "mechanical": [
+      "M000 Mechanical Specs",
+      "M100 Mechanical Layout and Details"
+    ],
+    "electrical": [
+      "E001 Electrical Power and Lighting Plans"
+    ]
+  },
+  "codes": [
+    "Florida Building Code (FBC) 2023, Residential, Eighth Edition"
+  ],
+  "request_link": "https://www.ocfl.net/PlanningDevelopment/ReadySetOrange.aspx",
+  "image_url": "https://oasisengineering.com/wp-content/uploads/2025/02/image-2-1583x2048.png",
+  "notes": "This plan must be requested directly from Orange County. Oasis Engineering can assist with site-specific engineering, grading, drainage, energy calcs, and permit-ready packages."
+}
